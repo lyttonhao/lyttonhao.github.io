@@ -5,7 +5,7 @@ excerpt: "Yanghao Li's homepage"
 search_omit: true
 ---
 
-I am Yanghao Li, currently an undergraduate in the Department of Computer Science, EECS, Peking University. I'm working as a reserach assistant in [STRUCT](http://www.icst.pku.edu.cn/course/icb/struct.html) group at the Institute of Computer Science and Technology([ICST](http://www.icst.pku.edu.cn)), Peking University.
+I am Yanghao Li, currently an undergraduate in the Department of Computer Science, EECS, Peking University. I'm working as a reserach assistant in [**STRUCT**](http://www.icst.pku.edu.cn/course/icb/struct.html) group at the Institute of Computer Science and Technology ([**ICST**](http://www.icst.pku.edu.cn)), Peking University.
 
 ### Experiences
 * B.S.Candidate (09/2011 - expected 07/2015)\\

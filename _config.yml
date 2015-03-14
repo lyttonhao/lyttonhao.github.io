@@ -2,7 +2,6 @@
 
 title: Yanghao Li
 locale: en_US
-description: Describe your website here.
 logo: lyh.jpg
 search: true
 url: http://localhost:4000
@@ -32,19 +31,18 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Yanghao Li
-  avatar: bio-photo.jpg
   email: lyttonhao@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: yanghao.li.50
   github: lyttonhao
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: #yanghao-li/a4/aa9/2a9
   instagram: #username
   flickr: #username
   tumblr: #username
   google:
-    plus: #username
+    plus: #yanghao
     analytics:
     verify:
     ad-client:
