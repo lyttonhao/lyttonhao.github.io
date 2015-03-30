@@ -47,7 +47,7 @@ application, photo-sketch synthesis.
 <h4>Weibo Visuliazation</h4>
 
 <figure class="course-proj-img">
-    <img src="/images/projects/transform_scenario.png" alt="" />
+    <img src="/images/projects/weibopic.png" alt="" />
     <figcaption>
     <p>Introduction to Visualization, 2014 - 2015 Fall</p>
     Implemented a Weibo visualization and interaction system for users to explore top events among thousands of weibos in a specific time. <br> <a href="http://vis.pku.edu.cn/course/Visualization_2014F/final_project/group7/"><span class="label">HERE</span></a>
