@@ -4,7 +4,8 @@ title: Yanghao Li
 locale: en_US
 logo: LiYanghao.jpg
 search: true
-url: http://localhost:4000
+#url: http://localhost:4000
+url: http://lyttonhao.github.io
 
 # Jekyll configuration
 
