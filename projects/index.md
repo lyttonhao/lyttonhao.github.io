@@ -35,7 +35,7 @@ W. Bai, Y. Li, J. Liu and Z. Guo
 based framework of transforming images with limited
 reference, which can be used for the typical image transformation
 application, photo-sketch synthesis.  
- <br><a href="/assets/papers/bw_vicp14.pdf"><span class="label">PDF</span></a> <a href="http://www.icst.pku.edu.cn/course/icb/Projects/ImageTrans.html"><span class="label">Project Page</span></a>
+ <br><a href="/assets/papers/bw_vcip14.pdf"><span class="label">PDF</span></a> <a href="http://www.icst.pku.edu.cn/course/icb/Projects/ImageTrans.html"><span class="label">Project Page</span></a>
 </p>
 
 <div style="height:50px; border-bottom:1px solid #ccc"></div>
