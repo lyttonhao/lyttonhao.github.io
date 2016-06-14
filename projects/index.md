@@ -7,6 +7,24 @@ excerpt: "Yanghao Li's Projects."
 
 <h2>Research Projects</h2>
 
+<h4>Multi-Pose Face Hallucination via Neighbor Embedding for Facial Components</h4>
+<p style="font-size: 15px">
+ICIP 2015<br>
+Y. Li, J. Liu, W. Yang and Z. Guo
+</p>
+
+<figure class="research-proj-img">
+    <img src="/images/projects/NEFC_flowchart.png" alt="" />
+</figure>
+<p style="font-size: 15px">In this paper, we propose a novel multi-pose face hallucination method based on Neighbor Embedding for Facial Components (NEFC) to magnify face images with various poses and expressions.
+ <br><a href="http://www.icst.pku.edu.cn/course/icb/Projects/NEFC/files/ICIP_NEFC.pdf"><span class="label">PDF</span></a>
+     <a href="https://github.com/lyttonhao/Face-Hallucination-of-Facial-Components/tree/release"><span class="label">Code</span></a>
+     <a href="http://www.icst.pku.edu.cn/course/icb/Projects/NEFC.html"><span class="label">Project Page</span></a>
+
+</p>
+<br><br>
+
+
 <h4>Neighborhood Regression for Edge-Preserving Image Super-Resolution</h4>
 <p style="font-size: 15px">
 ICASSP 2015<br>
@@ -18,6 +36,9 @@ Y. Li, J. Liu, W. Yang and Z. Guo
 </figure>
 <p style="font-size: 15px">In this project, we propose a novel edge-preserving super-resolution algorithm, which reconstructs low- and high-frequency components separately, rather than reconstructing the whole components in the image directly. 
  <br><a href="/assets/papers/LiYanghao_NRSR_ICASSP_v8.pdf"><span class="label">PDF</span></a>
+     <a href="https://github.com/lyttonhao/NRSR/tree/release"><span class="label">Code</span></a>
+     <a href="http://www.icst.pku.edu.cn/course/icb/Projects/NRSR.html"><span class="label">Project Page</span></a>
+
 </p>
 <br><br>
 
