@@ -16,14 +16,16 @@ I am Yanghao Li, currently a master student in the Institute of Computer Science
 ### Research
 My main interest lies in computer vision and image/video processing, including:
 
+* Action Recogntion and Detection
 * Super-Resolution Reconstruction
 * Face Hallucination
 
 My research projects are available at [**my project page**]({{ site.url }}/projects/).
 
 ### Publications
-* **Yanghao Li**, Jiaying Liu, Wenhan Yang and Zongming Guo. "Multi-Pose Face Hallucination via Neighbor Embedding for Facial Components", *Accepted by IEEE International Conference on Image Processing (ICIP)*, Quebec City, Canada, Sep. 2015.
-* **Yanghao Li**, Jiaying Liu, Wenhan Yang and Zongming Guo. "Neighborhood Regression for Edge-Preserving Image Super-Resolution", *Accepted by IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Brisbane, Australia, Apr. 2015.
+* **Yanghao Li**, Cuiling Lan, Junliang Xing, Wenjun Zeng, Chunfeng Yuan, and Jiaying Liu. "Online Human Action Detection using Joint Classification-Regression Recurrent Neural Networks." European Conference on Computer Vision (ECCV), 2016.
+* **Yanghao Li**, Jiaying Liu, Wenhan Yang and Zongming Guo. "Multi-Pose Face Hallucination via Neighbor Embedding for Facial Components", *Proc. of IEEE International Conference on Image Processing (ICIP)*, Quebec City, Canada, Sep. 2015.
+* **Yanghao Li**, Jiaying Liu, Wenhan Yang and Zongming Guo. "Neighborhood Regression for Edge-Preserving Image Super-Resolution", *Proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Brisbane, Australia, Apr. 2015.
 * Wei Bai, **Yanghao Li**, Jiaying Liu and Zongming Guo. "Image Transformation using Limited Reference with Application to Photo-Sketch Synthesis". *Proc. of IEEE Visual Communications and Image Processing (VCIP)*, Valletta, Malta, Dec. 2014. 
 
 

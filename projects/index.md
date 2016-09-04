@@ -7,6 +7,22 @@ excerpt: "Yanghao Li's Projects."
 
 <h2>Research Projects</h2>
 
+<h4>Online Human Action Detection using Joint Classification-Regression Recurrent Neural Networks</h4>
+<p style="font-size: 15px">
+ECCV 2016<br>
+Y. Li, C. Lan, J. Xing, W. Zeng, C. Yuan and J. Liu
+</p>
+
+<figure class="research-proj-img">
+    <img src="/images/projects/OAD_flowchart.png" alt="" />
+</figure>
+<p style="font-size: 15px">In this paper, we propose a Joint Classification-Regression Recurrent Neural Network to accurately detect the actions and localize the start and end positions of the actions on the fly. At the same time, we can forecast their occurrences in advance based on the regressed curves.
+ <br><a href=href="https://arxiv.org/abs/1604.05633"><span class="label">arXiv</span></a>
+     <a href="http://www.icst.pku.edu.cn/course/icb/Projects/OAD.html"><span class="label">Project Page</span></a>
+
+</p>
+<br><br>
+
 <h4>Multi-Pose Face Hallucination via Neighbor Embedding for Facial Components</h4>
 <p style="font-size: 15px">
 ICIP 2015<br>
