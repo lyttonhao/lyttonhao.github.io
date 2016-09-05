@@ -17,7 +17,7 @@ Y. Li, C. Lan, J. Xing, W. Zeng, C. Yuan and J. Liu
     <img src="/images/projects/OAD_flowchart.png" alt="" />
 </figure>
 <p style="font-size: 15px">In this paper, we propose a Joint Classification-Regression Recurrent Neural Network to accurately detect the actions and localize the start and end positions of the actions on the fly. At the same time, we can forecast their occurrences in advance based on the regressed curves.
- <br><a href=href="https://arxiv.org/abs/1604.05633"><span class="label">arXiv</span></a>
+ <br><a href="https://arxiv.org/abs/1604.05633"><span class="label">arXiv</span></a>
      <a href="http://www.icst.pku.edu.cn/course/icb/Projects/OAD.html"><span class="label">Project Page</span></a>
 
 </p>
