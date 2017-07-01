@@ -7,6 +7,38 @@ excerpt: "Yanghao Li's Projects."
 
 <h2>Research Projects</h2>
 
+<h4>Demystifying Neural Style Transfer</h4>
+<p style="font-size: 15px">
+IJCAI 2017<br>
+Y. Li, N. Wang, J. Liu, and X. Hou
+</p>
+
+<figure class="research-proj-img">
+    <img src="/images/projects/style_example.png" alt="" />
+</figure>
+<p style="font-size: 15px">In this paper, we propose a novel interpretation of neural style transfer by treating it as a domain adaptation problem. Specifically, we theoretically show that matching the Gram matrices of feature maps is equivalent to minimize the Maximum Mean Discrepancy (MMD) with the second order polynomial kernel. Thus, we argue that the essence of neural style transfer is to match the feature distributions between the style images and the generated images. 
+ <br><a href="https://arxiv.org/abs/1701.01036"><span class="label">arXiv</span></a>
+     <a href="http://www.icst.pku.edu.cn/struct/Projects/mmdstyle.html"><span class="label">Project Page</span></a>
+
+</p>
+<br><br>
+
+<h4>Revisiting Batch Normalization for Practical Domain Adaptation</h4>
+<p style="font-size: 15px">
+ICLRW 2017<br>
+Y. Li, N. Wang, J. Shi, J. Liu, and X. Hou
+</p>
+
+<figure class="research-proj-img">
+    <img src="/images/projects/adabn_example.png" alt="" />
+</figure>
+<p style="font-size: 15px">In this paper, we propose a simple yet powerful remedy, called Adaptive Batch Normalization (AdaBN) to increase the generalization ability of a DNN. By modulating the statistics from the source domain to the target domain in all Batch Normalization layers across the network, our approach achieves deep adaptation effect for domain adaptation tasks. In contrary to other deep learning domain adaptation methods, our method does not require additional components, and is parameter-free.
+ <br><a href="https://openreview.net/pdf?id=Hk6dkJQFx"><span class="label">ICLR Workshop</span></a>
+     <a href="http://www.icst.pku.edu.cn/struct/Projects/adabn.html"><span class="label">Project Page</span></a>
+
+</p>
+<br><br>
+
 <h4>Online Human Action Detection using Joint Classification-Regression Recurrent Neural Networks</h4>
 <p style="font-size: 15px">
 ECCV 2016<br>
