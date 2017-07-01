@@ -18,6 +18,7 @@ Y. Li, N. Wang, J. Liu, and X. Hou
 </figure>
 <p style="font-size: 15px">In this paper, we propose a novel interpretation of neural style transfer by treating it as a domain adaptation problem. Specifically, we theoretically show that matching the Gram matrices of feature maps is equivalent to minimize the Maximum Mean Discrepancy (MMD) with the second order polynomial kernel. Thus, we argue that the essence of neural style transfer is to match the feature distributions between the style images and the generated images. 
  <br><a href="https://arxiv.org/abs/1701.01036"><span class="label">arXiv</span></a>
+     <a href="https://github.com/lyttonhao/Neural-Style-MMD"><span class="label">Code</span></a>
      <a href="http://www.icst.pku.edu.cn/struct/Projects/mmdstyle.html"><span class="label">Project Page</span></a>
 
 </p>
