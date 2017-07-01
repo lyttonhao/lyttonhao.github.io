@@ -23,15 +23,15 @@ My main interest lies in computer vision and image/video processing, including:
 My research projects are available at [**my project page**]({{ site.url }}/projects/).
 
 ### Publications
-* **Yanghao Li**, Naiyan Wang, Jiaying Liu, and Xiaodi Hou. "Demystifying Neural Style Transfer", *Accepted by International Joint Conference on Artificial Intelligence (IJCAI)*, Melbourne, Australia, Aug. 2017.
-* Yuqi Li, **Yanghao Li**, Hongfei Yan, Jiaying Liu, "Deep Joint Discriminative Learning for Vehicle Re-Identification and Retrieval", *Accepted by IEEE International Conference on Image Processing (ICIP)*, Beijing, China, September 2017.
-* **Yanghao Li**, Naiyan Wang, Jianping Shi, Jiaying Liu and Xiaodi Hou. "Revisiting Batch Normalization For Practical Domain Adaptation", *Proc. of International Conference on Learning Representations Workshop (ICLRW)*, Toulon, France, Apr. 2017.
-* Chunhui Liu, **Yanghao Li**, Yueyu Hu and Jiaying Liu. "Online Action Detection and Forecast via Multi-Task Deep Recurrent Neural Network", *Proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, New Orleans, LA, U.S., March. 2017.
-* **Yanghao Li**, Cuiling Lan, Junliang Xing, Wenjun Zeng, Chunfeng Yuan, and Jiaying Liu. "Online Human Action Detection using Joint Classification-Regression Recurrent Neural Networks." *Proc. of European Conference on Computer Vision (ECCV)*, Amsterdam, The Netherlands, Oct. 2016.
-* Sijie Song, **Yanghao Li**, Jiaying Liu, Zongming Guo. "Joint Sub-Band Based Neighbor Embedding for Image Super-Resolution", *Proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Shanghai, China, March. 2016.
-* **Yanghao Li**, Jiaying Liu, Wenhan Yang and Zongming Guo. "Multi-Pose Face Hallucination via Neighbor Embedding for Facial Components", *Proc. of IEEE International Conference on Image Processing (ICIP)*, Quebec City, Canada, Sep. 2015.
-* **Yanghao Li**, Jiaying Liu, Wenhan Yang and Zongming Guo. "Neighborhood Regression for Edge-Preserving Image Super-Resolution", *Proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Brisbane, Australia, Apr. 2015.
-* Wei Bai, **Yanghao Li**, Jiaying Liu and Zongming Guo. "Image Transformation using Limited Reference with Application to Photo-Sketch Synthesis". *Proc. of IEEE Visual Communications and Image Processing (VCIP)*, Valletta, Malta, Dec. 2014. 
+* **Yanghao Li**, Naiyan Wang, Jiaying Liu, and Xiaodi Hou. "Demystifying Neural Style Transfer", *Accepted by International Joint Conference on Artificial Intelligence (**IJCAI**)*, Melbourne, Australia, Aug. 2017.
+* **Yanghao Li**, Naiyan Wang, Jianping Shi, Jiaying Liu and Xiaodi Hou. "Revisiting Batch Normalization For Practical Domain Adaptation", *Proc. of International Conference on Learning Representations Workshop (**ICLRW**)*, Toulon, France, Apr. 2017.
+* Yuqi Li, **Yanghao Li**, Hongfei Yan, Jiaying Liu, "Deep Joint Discriminative Learning for Vehicle Re-Identification and Retrieval", *Accepted by IEEE International Conference on Image Processing (**ICIP**)*, Beijing, China, September 2017.
+* Chunhui Liu, **Yanghao Li**, Yueyu Hu and Jiaying Liu. "Online Action Detection and Forecast via Multi-Task Deep Recurrent Neural Network", *Proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)*, New Orleans, LA, U.S., March. 2017.
+* **Yanghao Li**, Cuiling Lan, Junliang Xing, Wenjun Zeng, Chunfeng Yuan, and Jiaying Liu. "Online Human Action Detection using Joint Classification-Regression Recurrent Neural Networks." *Proc. of European Conference on Computer Vision (**ECCV**)*, Amsterdam, The Netherlands, Oct. 2016.
+* Sijie Song, **Yanghao Li**, Jiaying Liu, Zongming Guo. "Joint Sub-Band Based Neighbor Embedding for Image Super-Resolution", *Proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)*, Shanghai, China, March. 2016.
+* **Yanghao Li**, Jiaying Liu, Wenhan Yang and Zongming Guo. "Multi-Pose Face Hallucination via Neighbor Embedding for Facial Components", *Proc. of IEEE International Conference on Image Processing (**ICIP**)*, Quebec City, Canada, Sep. 2015.
+* **Yanghao Li**, Jiaying Liu, Wenhan Yang and Zongming Guo. "Neighborhood Regression for Edge-Preserving Image Super-Resolution", *Proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)*, Brisbane, Australia, Apr. 2015.
+* Wei Bai, **Yanghao Li**, Jiaying Liu and Zongming Guo. "Image Transformation using Limited Reference with Application to Photo-Sketch Synthesis". *Proc. of IEEE Visual Communications and Image Processing (**VCIP**)*, Valletta, Malta, Dec. 2014. 
 
 
 ### Contact Me
