@@ -23,7 +23,8 @@ My main interest lies in computer vision and image/video processing, including:
 My research projects are available at [**my project page**]({{ site.url }}/projects/).
 
 ### Publications
-* **Yanghao Li**, Naiyan Wang, Jiaying Liu, and Xiaodi Hou. "Demystifying Neural Style Transfer", *Accepted by International Joint Conference on Artificial Intelligence (**IJCAI**)*, Melbourne, Australia, Aug. 2017.
+* **Yanghao Li**, Naiyan Wang, Jiaying Liu, and Xiaodi Hou. "Factorized Bilinear Models for Image Recognition", *Accepted by International Conference on Computer Vision (**ICCV**)*, Venice, Italy, Oct. 2017.
+* **Yanghao Li**, Naiyan Wang, Jiaying Liu, and Xiaodi Hou. "Demystifying Neural Style Transfer", *Proc. of International Joint Conference on Artificial Intelligence (**IJCAI**)*, Melbourne, Australia, Aug. 2017.
 * **Yanghao Li**, Naiyan Wang, Jianping Shi, Jiaying Liu and Xiaodi Hou. "Revisiting Batch Normalization For Practical Domain Adaptation", *Proc. of International Conference on Learning Representations Workshop (**ICLRW**)*, Toulon, France, Apr. 2017.
 * Yuqi Li, **Yanghao Li**, Hongfei Yan, Jiaying Liu, "Deep Joint Discriminative Learning for Vehicle Re-Identification and Retrieval", *Accepted by IEEE International Conference on Image Processing (**ICIP**)*, Beijing, China, September 2017.
 * Chunhui Liu, **Yanghao Li**, Yueyu Hu and Jiaying Liu. "Online Action Detection and Forecast via Multi-Task Deep Recurrent Neural Network", *Proc. of IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)*, New Orleans, LA, U.S., March. 2017.

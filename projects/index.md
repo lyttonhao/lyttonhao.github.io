@@ -7,6 +7,23 @@ excerpt: "Yanghao Li's Projects."
 
 <h2>Research Projects</h2>
 
+<h4>Factorized Bilinear Models for Image Recognition</h4>
+<p style="font-size: 15px">
+ICCV 2017<br>
+Y. Li, N. Wang, J. Liu, and X. Hou
+</p>
+
+<figure class="research-proj-img1">
+    <img src="/images/projects/fbn_dropfactor.png" alt="" style="height: 240px; width:auto"/>
+</figure>
+<p style="font-size: 15px">In this paper, we propose a novel Factorized Bilinear (FB) layer to model the pairwise feature inter- actions by considering the quadratic terms in the transformations. Compared with existing methods that tried to in- corporate complex non-linearity structures into CNNs, the factorized parameterization makes our FB layer only re- quire a linear increase of parameters and affordable computational cost. To further reduce the risk of overfitting of the FB layer, a specific remedy called DropFactor is devised during the training process.
+ <br><a href="https://arxiv.org/abs/1611.05709"><span class="label">arXiv</span></a>
+     <a href="https://github.com/lyttonhao/Factorized-Bilinear-Network"><span class="label">Code</span></a>
+     <a href="http://www.icst.pku.edu.cn/struct/Projects/fbn.html"><span class="label">Project Page</span></a>
+
+</p>
+<br><br>
+
 <h4>Demystifying Neural Style Transfer</h4>
 <p style="font-size: 15px">
 IJCAI 2017<br>
