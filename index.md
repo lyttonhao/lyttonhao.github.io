@@ -23,7 +23,13 @@ My main interest lies in computer vision and image/video processing, including:
 My research projects are available at [**my project page**]({{ site.url }}/projects/).
 
 ### Publications
-* **Yanghao Li**, Naiyan Wang, Jiaying Liu, and Xiaodi Hou. "Factorized Bilinear Models for Image Recognition", *Accepted by International Conference on Computer Vision (**ICCV**)*, Venice, Italy, Oct. 2017.
+[**Google Scholar**](https://scholar.google.com/citations?user=-VgS8AIAAAAJ&hl=en)
+#### Journal
+* **Yanghao Li**, Naiyan Wang, Jianping Shi, Xiaodi Hou, and Jiaying Liu. "Adaptive Batch Normalization for Practical Domain Adaptation", *Pattern Recognition (**PR**)*, Vol.80, pp.109-117, Aug. 2018.
+* Jiaying Liu, **Yanghao Li**, Sijie Song, Junliang Xing, Cuiling Lan, and Wenjun Zeng. "Multi-Modality Multi-Task Recurrent Neural Network for Online Action Detection", *Accepted by IEEE Trans. on Circuit System for Video Technology (**TCSVT**)*, Jan. 2018.
+
+#### Conference
+* **Yanghao Li**, Naiyan Wang, Jiaying Liu, and Xiaodi Hou. "Factorized Bilinear Models for Image Recognition", *Proc. of International Conference on Computer Vision (**ICCV**)*, Venice, Italy, Oct. 2017.
 * **Yanghao Li**, Naiyan Wang, Jiaying Liu, and Xiaodi Hou. "Demystifying Neural Style Transfer", *Proc. of International Joint Conference on Artificial Intelligence (**IJCAI**)*, Melbourne, Australia, Aug. 2017.
 * **Yanghao Li**, Naiyan Wang, Jianping Shi, Jiaying Liu and Xiaodi Hou. "Revisiting Batch Normalization For Practical Domain Adaptation", *Proc. of International Conference on Learning Representations Workshop (**ICLRW**)*, Toulon, France, Apr. 2017.
 * Yuqi Li, **Yanghao Li**, Hongfei Yan, Jiaying Liu, "Deep Joint Discriminative Learning for Vehicle Re-Identification and Retrieval", *Accepted by IEEE International Conference on Image Processing (**ICIP**)*, Beijing, China, September 2017.
